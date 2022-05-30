@@ -1,6 +1,6 @@
 x= 5
 try:
-    print(y)
+    print(x)
 except NameError:
     print("X is not define")
 except SyntaxError:
